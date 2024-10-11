@@ -23,6 +23,7 @@
     "socket.io": "^4.8.0"
   },
   "devDependencies": {
+    "@types/cookie-parser": "^1.4.7",
     "@types/express": "^5.0.0"
   }
 }
